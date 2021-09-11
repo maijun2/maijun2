@@ -20,6 +20,9 @@ https://www.kbc.ac.jp/
 - Security関連
 - AWS 
 
+### 最近のトピック
+地元紙デビューの[実績を解除](https://twitter.com/maijun2/status/1433667413170548736)しちゃいました。
+
 ## Certification Badges
 [Credly Badges](https://www.credly.com/users/jun-kubotamai/badges)
 - AWS Certified Cloud Practitioner
@@ -31,7 +34,7 @@ https://www.kbc.ac.jp/
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
 
-## Other Certification 
+### Other Certification 
 - LinuC レベル1
 - 情報セキュリティマネジメント試験
 - 基本情報技術者試験
