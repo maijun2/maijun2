@@ -10,7 +10,7 @@ https://www.kbc.ac.jp/
 | 日時 | 職務 |
 | ---- | ---- |
 | 1995.04 | [株式会社コンピュータ沖縄](https://www.c-okinawa.co.jp) |
-| 2000.10 | [学校法人KBC学園](https://www.kbcgroup.ac.jp/) |
+| 2000.10 | [学校法人KBC学園](https://kbcgroup.jp/) |
 | 2018.04 | システム部門から講師部門へ異動 |
 | 現在 | 専門学校講師として教鞭を執る |
 
