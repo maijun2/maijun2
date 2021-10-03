@@ -30,6 +30,7 @@ https://www.kbc.ac.jp/
 - AWS Certified Developer – Associate
 - AWS Certified SysOps Administrator – Associate
 - AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
 - AWS Academy Accredited Educator
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
