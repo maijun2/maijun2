@@ -12,7 +12,7 @@ https://www.serverworks.co.jp/
 | 1995.04 | [株式会社コンピュータ沖縄](https://www.c-okinawa.co.jp) |
 | 2000.10 | [学校法人KBC学園](https://kbcgroup.jp/) |
 | 2018.04 | システム部門から講師部門へ異動 |
-| 2020.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
+| 2022.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
 | 現職務内容 | 教育事業で働いてます |
 
 ### 最近のトピック
