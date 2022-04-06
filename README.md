@@ -3,8 +3,7 @@ Jun kubotamai（久保玉井純：くぼたまいじゅん)
 Japan,Okinawa
 
 ## 所属
-株式会社サーバーワークス 
-https://www.serverworks.co.jp/
+[株式会社サーバーワークス](https://www.serverworks.co.jp/)
 
 ### 職務経歴
 | 日時 | 職務 |
