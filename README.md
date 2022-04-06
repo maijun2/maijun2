@@ -26,6 +26,7 @@ https://www.serverworks.co.jp/
 - AWS Certified SysOps Administrator – Associate
 - AWS Certified Solutions Architect – Professional
 - AWS Certified DevOps Engineer – Professional
+- AWS Certified Security - Specialty
 - AWS Academy Accredited Educator
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
