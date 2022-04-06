@@ -3,8 +3,8 @@ Jun kubotamai（久保玉井純：くぼたまいじゅん)
 Japan,Okinawa
 
 ## 所属
-専修学校国際電子ビジネス専門学校  
-https://www.kbc.ac.jp/
+株式会社サーバーワークス 
+https://www.serverworks.co.jp/
 
 ### 職務経歴
 | 日時 | 職務 |
@@ -12,13 +12,8 @@ https://www.kbc.ac.jp/
 | 1995.04 | [株式会社コンピュータ沖縄](https://www.c-okinawa.co.jp) |
 | 2000.10 | [学校法人KBC学園](https://kbcgroup.jp/) |
 | 2018.04 | システム部門から講師部門へ異動 |
-| 現在 | 専門学校講師として教鞭を執る |
-
-### 現職務内容
-インフラ系科目講師として勤務し、以下科目を指導 
-- Linux
-- Security関連
-- AWS 
+| 2020.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
+| 現職務内容 | 教育事業で働いてます |
 
 ### 最近のトピック
 地元紙デビューの[実績を解除](https://twitter.com/maijun2/status/1433667413170548736)しちゃいました。
