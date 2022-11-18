@@ -12,6 +12,8 @@ Japan,Okinawa
 | 2000.10 | [学校法人KBC学園](https://kbcgroup.jp/) |
 | 2018.04 | システム部門から講師部門へ異動 |
 | 2022.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
+| 2022.07 | AWS認定インストラクター取得 |
+| 2022.11 | AWS DiscoveryDay 登壇 |
 | 現職務内容 | 教育事業で働いてます |
 
 ### 最近のトピック
@@ -31,6 +33,7 @@ Japan,Okinawa
 - AWS Certified Data Analytics – Specialty
 - AWS Certified Machine Learning – Specialty
 - AWS Academy Accredited Educator
+- AWS Authorized Instructor
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
 
