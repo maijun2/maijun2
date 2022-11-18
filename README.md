@@ -26,6 +26,10 @@ Japan,Okinawa
 - AWS Certified Solutions Architect – Professional
 - AWS Certified DevOps Engineer – Professional
 - AWS Certified Security - Specialty
+- AWS Certified Database – Specialty
+- AWS Certified Advanced Networking – Specialty
+- AWS Certified Data Analytics – Specialty
+- AWS Certified Machine Learning – Specialty
 - AWS Academy Accredited Educator
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
