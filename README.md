@@ -14,6 +14,7 @@ Japan,Okinawa
 | 2022.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
 | 2022.07 | AWS認定インストラクター取得 |
 | 2022.11 | AWS DiscoveryDay 登壇 |
+| 2023.01 | [AWS認定試験 全冠達成](https://zenn.dev/maijun/articles/12f44669b922bd) |
 | 現職務内容 | 教育事業で働いてます |
 
 ### 最近のトピック
@@ -32,6 +33,7 @@ Japan,Okinawa
 - AWS Certified Advanced Networking – Specialty
 - AWS Certified Data Analytics – Specialty
 - AWS Certified Machine Learning – Specialty
+- AWS Certified SAP on AWS - Specialty
 - AWS Academy Accredited Educator
 - AWS Authorized Instructor
 - CompTIA Cloud Essentials Certification
