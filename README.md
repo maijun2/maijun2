@@ -38,7 +38,7 @@ Japan,Okinawa
 - AWS Authorized Instructor
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
-- [Google Cloud Digital Leader](https://www.credential.net/3167ba57-4d47-4e15-80d1-4e183dcc90ed?key=512f1692a6189a7a97125bb3989111d97fcef867721b17f2b627d4d454f4127e)
+- [Google Cloud Certified Cloud Digital Leader](https://www.credential.net/3167ba57-4d47-4e15-80d1-4e183dcc90ed?key=512f1692a6189a7a97125bb3989111d97fcef867721b17f2b627d4d454f4127e)
 
 ### Other Certification 
 - LinuC レベル1
