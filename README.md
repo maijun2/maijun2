@@ -39,6 +39,7 @@ Japan,Okinawa
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
 - [Google Cloud Certified Cloud Digital Leader](https://www.credential.net/3167ba57-4d47-4e15-80d1-4e183dcc90ed?key=512f1692a6189a7a97125bb3989111d97fcef867721b17f2b627d4d454f4127e)
+- [Google Cloud Certified Associate Cloud Engineer](https://scl.io/6FS6Nt7)
 
 ### Other Certification 
 - LinuC レベル1
@@ -51,6 +52,7 @@ Japan,Okinawa
 | Service | Account |
 | ---- | ---- |
 |  Twitter  |  [@maijun2](https://twitter.com/maijun2)  |
+|  BlueSky  | [@maijun.net](https://bsky.app/profile/maijun.net) |
 |  Facebook  |  [jun.kubotamai](https://www.facebook.com/jun.kubotamai)  |
 |  Instagram  |  [maijun2](https://www.instagram.com/maijun2/)  |
 |  Qiita  |  [maijun](https://qiita.com/maijun)  |
