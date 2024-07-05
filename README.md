@@ -3,9 +3,9 @@ Jun kubotamai（久保玉井純：くぼたまいじゅん)
 Japan,Okinawa
 
 ## 所属
-[株式会社サーバーワークス](https://www.serverworks.co.jp/)
+[トレノケート株式会社](https://www.trainocate.co.jp/)
 
-### 職務経歴
+### 経歴
 | 日時 | 職務 |
 | ---- | ---- |
 | 1995.04 | [株式会社コンピュータ沖縄](https://www.c-okinawa.co.jp) |
