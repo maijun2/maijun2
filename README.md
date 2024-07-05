@@ -15,6 +15,10 @@ Japan,Okinawa
 | 2022.07 | AWS認定インストラクター取得 |
 | 2022.11 | AWS DiscoveryDay 登壇 |
 | 2023.01 | [AWS認定試験 全冠達成](https://zenn.dev/maijun/articles/12f44669b922bd) |
+| 2023.04 | [2023 Japan AWS All Certifications Engineers受賞](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/) |
+| 2023.08 | [AWS Authorized Instructor Award 2022受賞](https://aws.amazon.com/jp/blogs/psa/aws-authorized-instructor-award-2022/)|
+| 2024.06 | [トレノケート株式会社](https://www.trainocate.co.jp/) |
+| 2024.06 | [2024 Japan AWS All Certifications Engineers受賞](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/) |
 | 現職務内容 | 教育事業で働いてます |
 
 ### 最近のトピック
