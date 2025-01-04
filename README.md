@@ -13,7 +13,6 @@ Japan,Okinawa
 | 2018.04 | システム部門から講師部門へ異動 |
 | 2022.04 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) |
 | 2022.07 | AWS認定インストラクター取得 |
-| 2022.11 | AWS DiscoveryDay 登壇 |
 | 2023.01 | [AWS認定試験 全冠達成](https://zenn.dev/maijun/articles/12f44669b922bd) |
 | 2023.04 | [2023 Japan AWS All Certifications Engineers受賞](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/) |
 | 2023.08 | [AWS Authorized Instructor Award 2022受賞](https://aws.amazon.com/jp/blogs/psa/aws-authorized-instructor-award-2022/)|
@@ -38,12 +37,16 @@ Japan,Okinawa
 - AWS Certified Data Analytics – Specialty
 - AWS Certified Machine Learning – Specialty
 - AWS Certified SAP on AWS - Specialty
-- AWS Academy Accredited Educator
-- AWS Authorized Instructor
+- AWS Certified AI Practitioner
+- AWS Certified Data Engineer – Associate
+- AWS Authorized Instructor Champion
 - CompTIA Cloud Essentials Certification
 - CompTIA Security+ ce Certification
 - [Google Cloud Certified Cloud Digital Leader](https://www.credential.net/3167ba57-4d47-4e15-80d1-4e183dcc90ed?key=512f1692a6189a7a97125bb3989111d97fcef867721b17f2b627d4d454f4127e)
 - [Google Cloud Certified Associate Cloud Engineer](https://scl.io/6FS6Nt7)
+- Oracle Cloud Infrastructure 2023 Architect Associate
+- Oracle Cloud Infrastructure 2023 Foundation Associate
+- OCI Accredited Instructor
 
 ### Other Certification 
 - LinuC レベル1
@@ -55,7 +58,7 @@ Japan,Okinawa
 ## SNS
 | Service | Account |
 | ---- | ---- |
-|  Twitter  |  [@maijun2](https://twitter.com/maijun2)  |
+|  X(Twitter)  |  [@maijun2](https://twitter.com/maijun2)  |
 |  BlueSky  | [@maijun.net](https://bsky.app/profile/maijun.net) |
 |  Facebook  |  [jun.kubotamai](https://www.facebook.com/jun.kubotamai)  |
 |  Instagram  |  [maijun2](https://www.instagram.com/maijun2/)  |
