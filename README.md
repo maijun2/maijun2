@@ -65,7 +65,7 @@ Japan,Okinawa
 ## Site
 https://awstech.cloud/  
 https://netply.net/  
-https://blog.itoman.top/  
+
 
 
 
